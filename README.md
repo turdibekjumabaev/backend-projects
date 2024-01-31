@@ -4,5 +4,4 @@
 [![Technologies](https://skillicons.dev/icons?i=java,python,spring,django,flask,postgres,sqlite)](https://t.me/turdibekjumabaev)
 
 ## List of projects:
-  + [Bookstore](https://github.com/turdibekjumabaev/backend-projects/)
-  + [Medium](https://github.com/turdibekjumabaev/backend-projects/)
+  + [**English Dictionary**](https://github.com/turdibekjumabaev/backend-projects/tree/english-dictionary-flask) _(Flask 🌶)_
