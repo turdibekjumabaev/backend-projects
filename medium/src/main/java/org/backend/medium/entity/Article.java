@@ -49,9 +49,9 @@ public class Article {
 
     @CreationTimestamp
     @CreatedDate
-    private LocalDateTime publishDate;
+    private LocalDateTime published_at;
 
     @UpdateTimestamp
     @Temporal(TemporalType.TIMESTAMP)
-    private LocalDateTime updatedAt;
+    private LocalDateTime updated_at;
 }
