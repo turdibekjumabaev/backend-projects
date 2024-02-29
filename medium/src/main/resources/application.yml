@@ -1,1 +1,18 @@
+server:
+  port: 4200
 
+spring:
+  datasource:
+    driver-class-name: org.postgresql.Driver
+    url: jdbc:postgresql://localhost:5432/<DATABASA NAME>
+    username: <USERNAME>
+    password: <PASSWORD>
+
+  security:
+    secret:
+      key: <SECRET KEY>
+
+  jpa:
+    showSql: true
+    hibernate:
+      ddl-auto: update
