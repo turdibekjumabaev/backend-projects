@@ -9,7 +9,7 @@ import java.util.UUID;
 @Builder
 @AllArgsConstructor
 @NoArgsConstructor
-public class ImageDto {
+public class ImageDTO {
     private UUID id;
     private String path;
 }
