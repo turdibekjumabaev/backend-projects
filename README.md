@@ -7,3 +7,6 @@
   + [**English Dictionary**](https://github.com/turdibekjumabaev/backend-projects/tree/english-dictionary-flask) _(Flask 🌶)_
   + [**Medium**](https://github.com/turdibekjumabaev/backend-projects/tree/medium) _(Spring 🌱)_
   + [**Book Store**](https://github.com/turdibekjumabaev/backend-projects/tree/bookstore-spring) _(Spring 🌱)_
+
+## Others
+  + [**Mail Sender**](https://github.com/turdibekjumabaev/backend-projects/tree/others/email-sender)
